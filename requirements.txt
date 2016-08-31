@@ -1,0 +1,10 @@
+# requirements.txt
+
+
+pyramid
+PyYAML
+venusian
+zope.interface
+
+
+# EOF

@@ -1,0 +1,21 @@
+# .gitignore
+
+
+# python
+/*.egg
+/.cache/
+/.eggs/
+/.venv/
+/.tox/
+/dist/
+/build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+
+# vi
+.*.swp
+
+
+# EOF
